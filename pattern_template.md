@@ -8,11 +8,11 @@
 
 ## Motivation
 
-*Explain a scenario consisting of a problem and a context in which this pattern can be used.*
+*Explain a scenario consisting of a problem, and a context in which this pattern can be used.*
 
 ## Structure
 
-*Provide a graphical representation of the pattern. Class diagrams and Interaction diagrams may be used for this purpose. You can include an image like in the "Diagram" section.*
+*Provide a graphical representation of the pattern. High level diagrams may be used for this purpose. You can include an image like in the "Diagram" section.*
 ### Diagram
 
 ![Pattern Diagram](/path/to/diagram.png)
@@ -22,17 +22,11 @@
 
 ### Participants
 
-*List the classes and objects used in the pattern and their roles in the design.*
+*List the components used in the pattern and their roles in the design.*
 
-### Collaboration
 
-*Describe how classes and objects used in the pattern interact with each other.*
 
-## Consequences
-
-*Explain the results, side effects, and trade-offs caused by using the pattern.*
-
-## Implementation
+## Implementation and Relevant Tools
 
 *Provide a description of an implementation of the pattern; the solution part of the pattern.*
 
@@ -42,6 +36,8 @@
 # Insert sample code here, using the appropriate language syntax highlighting
 ```
 
-## Known Uses
+## Consequences
+### Results
+### Trade-offs
 
-## Related Patterns
+## Known Uses
