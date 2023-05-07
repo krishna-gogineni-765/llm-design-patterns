@@ -22,6 +22,13 @@ The patterns aren't classified into logical groups yet. We are working on it.
 
 - [Simple LLM Generation](simple-llm-generation/simple-llm-generation.md)
 - [Retrieval Augmented Generation](retrieval-augmented-generation/retrieval-augmented-generation.md)
+- [TODO] [Example Augmented Task Generation](simple-llm-generation/simple-llm-generation.md)
+- [TODO] [Autonomous Agent](simple-llm-generation/simple-llm-generation.md)
+- [TODO] [LLM Tool](simple-llm-generation/simple-llm-generation.md)
+- [TODO] [Guard rails](simple-llm-generation/simple-llm-generation.md)
+- [TODO] [Simple LLM Embeddings](simple-llm-generation/simple-llm-generation.md)
+- [TODO] [LLM Memory](simple-llm-generation/simple-llm-generation.md)
+- [TODO] [Reflection and Planning pattern](simple-llm-generation/simple-llm-generation.md)
 
 ## Contributing
 
