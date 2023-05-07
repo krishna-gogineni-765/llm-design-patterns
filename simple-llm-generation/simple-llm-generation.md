@@ -1,4 +1,4 @@
-# (WIP) LLM Generation
+# LLM Generation
 
 ## Intent
 
